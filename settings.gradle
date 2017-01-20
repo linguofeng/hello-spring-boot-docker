@@ -15,5 +15,5 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'hello'
+rootProject.name = 'hello-spring-boot-docker'
 rootProject.buildFileName = 'build.gradle.kts'

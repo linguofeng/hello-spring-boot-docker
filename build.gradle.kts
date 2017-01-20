@@ -19,7 +19,7 @@ apply {
 	plugin("org.springframework.boot")
 }
 
-version = "0.0.1-SNAPSHOT"
+version = "0.0.1"
 
 repositories {
     mavenCentral()
